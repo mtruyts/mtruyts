@@ -5,8 +5,11 @@
 
 ### FullStack Developer
 ### Power Platform Solution Architect Expert
-
-<br></br>
+<div align="left" style="display: inline_block"><br>
+  <img align="center" alt="Douglas-Js" height="50" width="60" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main">
+  <img align="center" alt="Douglas-Js" height="50" width="60" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main">
+  <img align="center" alt="Douglas-Js" height="50" width="60" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main">
+</div>
 
 ### :computer: Working with the following technologies:
 
